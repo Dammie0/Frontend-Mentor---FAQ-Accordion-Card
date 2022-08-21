@@ -63,7 +63,7 @@ I would like to perfect my css styles
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Add your name here](https://github.com/Dammie0/Frontend-Mentor---FAQ-Accordion-Card.git)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dammie0)
 - Twitter - [@yourusername](https://www.twitter.com/d_ebus)
 
