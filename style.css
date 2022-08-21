@@ -1,0 +1,30 @@
+
+body{
+    background-color: hsl(273, 75%, 66%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container{
+    display: flex;
+    background-color: white;
+    width: 500px;
+    margin-top: 40px;
+    padding:10px ;
+    border-radius: 15px;
+    height: 100%;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.questions{
+    width: 100%;
+}
+
+.card-picture{
+    width: 100%;
+    margin-top: 4rem;
+    margin-right: 4rem;
+}
+#pattern{
+    margin-bottom: 10px;
+}
